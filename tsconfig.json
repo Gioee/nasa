@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "target": "ESNext",
+        "sourceMap": true,
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "types": ["node", "jest"],
+        "lib": ["ESNext"],
+        "rootDirs": ["src"],
+        "allowSyntheticDefaultImports": true,
+        "allowJs": true
+    },
+    "include": ["src/**/*", "./jest/index.test.ts"],
+    "exclude": ["./dist"]
+}

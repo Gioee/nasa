@@ -1,0 +1,486 @@
+[
+  {
+      "name": "Abafar",
+      "code": "ABA"
+  },
+  {
+      "name": "Agamar",
+      "code": "AGA"
+  },
+  {
+      "name": "Ahch-To",
+      "code": "AHC"
+  },
+  {
+      "name": "Ajan Kloss",
+      "code": "AJA"
+  },
+  {
+      "name": "Akiva",
+      "code": "AKI"
+  },
+  {
+      "name": "Alderaan",
+      "code": "ALD"
+  },
+  {
+      "name": "Aldhani",
+      "code": "ALH"
+  },
+  {
+      "name": "Aleen",
+      "code": "ALE"
+  },
+  {
+      "name": "Alzoc III",
+      "code": "ALZ"
+  },
+  {
+      "name": "Anaxes",
+      "code": "ANA"
+  },
+  {
+      "name": "Ando",
+      "code": "AND"
+  },
+  {
+      "name": "Anoat",
+      "code": "ANO"
+  },
+  {
+      "name": "Atollon",
+      "code": "ATO"
+  },
+  {
+      "name": "Barton 4",
+      "code": "BAR"
+  },
+  {
+      "name": "Balnab",
+      "code": "BAL"
+  },
+  {
+      "name": "Batuu",
+      "code": "BAT"
+  },
+  {
+      "name": "Bespin",
+      "code": "BES"
+  },
+  {
+      "name": "Bogano",
+      "code": "BOG"
+  },
+  {
+      "name": "Bracca",
+      "code": "BRA"
+  },
+  {
+      "name": "Cantonica",
+      "code": "CAN"
+  },
+  {
+      "name": "Castilon",
+      "code": "CAS"
+  },
+  {
+      "name": "Cato Neimoidia",
+      "code": "CAT"
+  },
+  {
+      "name": "Chandrila",
+      "code": "CHA"
+  },
+  {
+      "name": "Christophsis",
+      "code": "CHR"
+  },
+  {
+      "name": "Concord Dawn",
+      "code": "CON"
+  },
+  {
+      "name": "Corellia",
+      "code": "COR"
+  },
+  {
+      "name": "Coruscant",
+      "code": "COU"
+  },
+  {
+      "name": "Crait",
+      "code": "CRA"
+  },
+  {
+      "name": "Daiyu",
+      "code": "DAI"
+  },
+  {
+      "name": "D'Qar",
+      "code": "D'Q"
+  },
+  {
+      "name": "Dagobah",
+      "code": "DAG"
+  },
+  {
+      "name": "Dantooine",
+      "code": "DAN"
+  },
+  {
+      "name": "Dathomir",
+      "code": "DAT"
+  },
+  {
+      "name": "Devaron",
+      "code": "DEV"
+  },
+  {
+      "name": "Eadu",
+      "code": "EAD"
+  },
+  {
+      "name": "Endor",
+      "code": "END"
+  },
+  {
+      "name": "Endor (Sanctuary)",
+      "code": "ENS"
+  },
+  {
+      "name": "Er'kit",
+      "code": "ERK"
+  },
+  {
+      "name": "Eriadu",
+      "code": "ERI"
+  },
+  {
+      "name": "Esseles",
+      "code": "ESS"
+  },
+  {
+      "name": "Exegol",
+      "code": "EXE"
+  },
+  {
+      "name": "Felucia",
+      "code": "FEL"
+  },
+  {
+      "name": "Ferrix",
+      "code": "FER"
+  },
+  {
+      "name": "Florrum",
+      "code": "FLO"
+  },
+  {
+      "name": "Fondor",
+      "code": "FON"
+  },
+  {
+      "name": "Geonosis",
+      "code": "GEO"
+  },
+  {
+      "name": "Hosnian Prime",
+      "code": "HOS"
+  },
+  {
+      "name": "Hoth",
+      "code": "HOT"
+  },
+  {
+      "name": "Iego",
+      "code": "IEG"
+  },
+  {
+      "name": "Ilum",
+      "code": "ILU"
+  },
+  {
+      "name": "Iridonia",
+      "code": "IRI"
+  },
+  {
+      "name": "Jabiim",
+      "code": "JAB"
+  },
+  {
+      "name": "Jakku",
+      "code": "JAK"
+  },
+  {
+      "name": "Jedha",
+      "code": "JED"
+  },
+  {
+      "name": "Jelucan",
+      "code": "JEL"
+  },
+  {
+      "name": "Jestefad",
+      "code": "JES"
+  },
+  {
+      "name": "Kamino",
+      "code": "KAM"
+  },
+  {
+      "name": "Kashyyyk",
+      "code": "KAS"
+  },
+  {
+      "name": "Kef Bir",
+      "code": "KEF"
+  },
+  {
+      "name": "Kessel",
+      "code": "KES"
+  },
+  {
+      "name": "Kijimi",
+      "code": "KIJ"
+  },
+  {
+      "name": "Koboh",
+      "code": "KOB"
+  },
+  {
+      "name": "Kuat",
+      "code": "KUA"
+  },
+  {
+      "name": "Lah'mu",
+      "code": "LAH"
+  },
+  {
+      "name": "Lothal",
+      "code": "LOT"
+  },
+  {
+      "name": "Lotho Minor",
+      "code": "LOM"
+  },
+  {
+      "name": "Malachor",
+      "code": "MAC"
+  },
+  {
+      "name": "Malastare",
+      "code": "MAL"
+  },
+  {
+      "name": "Mandalore",
+      "code": "MAN"
+  },
+  {
+      "name": "Mapuzo",
+      "code": "MAP"
+  },
+  {
+      "name": "Maridun",
+      "code": "MAR"
+  },
+  {
+      "name": "Mimban",
+      "code": "MIM"
+  },
+  {
+      "name": "Mon Cala",
+      "code": "MON"
+  },
+  {
+      "name": "Moraband",
+      "code": "MOB"
+  },
+  {
+      "name": "Mortis",
+      "code": "MOR"
+  },
+  {
+      "name": "Mustafar",
+      "code": "MUS"
+  },
+  {
+      "name": "Mygeeto",
+      "code": "MYG"
+  },
+  {
+      "name": "Naboo",
+      "code": "NAB"
+  },
+  {
+      "name": "Nal Hutta",
+      "code": "NAL"
+  },
+  {
+      "name": "Nevarro",
+      "code": "NEV"
+  },
+  {
+      "name": "Niamos",
+      "code": "NIA"
+  },
+  {
+      "name": "Numidian Prime",
+      "code": "NUM"
+  },
+  {
+      "name": "Nur",
+      "code": "NUR"
+  },
+  {
+      "name": "Onderon",
+      "code": "OND"
+  },
+  {
+      "name": "Ord Mantell",
+      "code": "ORD"
+  },
+  {
+      "name": "Ossus",
+      "code": "OSS"
+  },
+  {
+      "name": "Pasaana",
+      "code": "PAS"
+  },
+  {
+      "name": "Pillio",
+      "code": "PIL"
+  },
+  {
+      "name": "Polis Massa",
+      "code": "POL"
+  },
+  {
+      "name": "Rishi",
+      "code": "RIS"
+  },
+  {
+      "name": "Rodia",
+      "code": "ROD"
+  },
+  {
+      "name": "Rugosa",
+      "code": "RUG"
+  },
+  {
+      "name": "Ruusan",
+      "code": "RUU"
+  },
+  {
+      "name": "Ryloth",
+      "code": "RYL"
+  },
+  {
+      "name": "Saleucami",
+      "code": "SAL"
+  },
+  {
+      "name": "Savareen",
+      "code": "SAV"
+  },
+  {
+      "name": "Scarif",
+      "code": "SCA"
+  },
+  {
+      "name": "Seatos",
+      "code": "SEA"
+  },
+  {
+      "name": "Serenno",
+      "code": "SER"
+  },
+  {
+      "name": "Shili",
+      "code": "SHI"
+  },
+  {
+      "name": "Sissubo",
+      "code": "SIS"
+  },
+  {
+      "name": "Skako Minor",
+      "code": "SKA"
+  },
+  {
+      "name": "Sorgan",
+      "code": "SOR"
+  },
+  {
+      "name": "Subterrel",
+      "code": "SUB"
+  },
+  {
+      "name": "Sullust",
+      "code": "SUL"
+  },
+  {
+      "name": "Takodana",
+      "code": "TAK"
+  },
+  {
+      "name": "Tanalorr",
+      "code": "TAN"
+  },
+  {
+      "name": "Tatooine",
+      "code": "TAT"
+  },
+  {
+      "name": "Teth",
+      "code": "TET"
+  },
+  {
+      "name": "Toydaria",
+      "code": "TOY"
+  },
+  {
+      "name": "Trandosha",
+      "code": "TRA"
+  },
+  {
+      "name": "Umbara",
+      "code": "UMB"
+  },
+  {
+      "name": "Utapau",
+      "code": "UTA"
+  },
+  {
+      "name": "Vandor-1",
+      "code": "VAN"
+  },
+  {
+      "name": "Vardos",
+      "code": "VAR"
+  },
+  {
+      "name": "Wobani",
+      "code": "WOB"
+  },
+  {
+      "name": "Wrea",
+      "code": "WRE"
+  },
+  {
+      "name": "Yavin",
+      "code": "YAV"
+  },
+  {
+      "name": "Yavin 4",
+      "code": "YA4"
+  },
+  {
+      "name": "Zeffo",
+      "code": "ZEF"
+  },
+  {
+      "name": "Zygerria",
+      "code": "ZYG"
+  }
+]
